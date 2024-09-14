@@ -1,0 +1,9 @@
+d:\Users\L3NOV\Desktop\FileProject\comboboxprograme\comboboxprograme\bin\Debug\comboboxprograme.exe.config
+d:\Users\L3NOV\Desktop\FileProject\comboboxprograme\comboboxprograme\bin\Debug\comboboxprograme.exe
+d:\Users\L3NOV\Desktop\FileProject\comboboxprograme\comboboxprograme\bin\Debug\comboboxprograme.pdb
+d:\Users\L3NOV\Desktop\FileProject\comboboxprograme\comboboxprograme\obj\Debug\comboboxprograme.csprojResolveAssemblyReference.cache
+d:\Users\L3NOV\Desktop\FileProject\comboboxprograme\comboboxprograme\obj\Debug\comboboxprograme.Form1.resources
+d:\Users\L3NOV\Desktop\FileProject\comboboxprograme\comboboxprograme\obj\Debug\comboboxprograme.Properties.Resources.resources
+d:\Users\L3NOV\Desktop\FileProject\comboboxprograme\comboboxprograme\obj\Debug\comboboxprograme.csproj.GenerateResource.Cache
+d:\Users\L3NOV\Desktop\FileProject\comboboxprograme\comboboxprograme\obj\Debug\comboboxprograme.exe
+d:\Users\L3NOV\Desktop\FileProject\comboboxprograme\comboboxprograme\obj\Debug\comboboxprograme.pdb
