@@ -1,0 +1,9 @@
+d:\Users\L3NOV\Desktop\FileProject\ListBoxPrograme\ListBoxPrograme\bin\Debug\ListBoxPrograme.exe.config
+D:\Users\L3NOV\Desktop\FileProject\ListBoxPrograme\ListBoxPrograme\bin\Debug\ListBoxPrograme.exe
+D:\Users\L3NOV\Desktop\FileProject\ListBoxPrograme\ListBoxPrograme\bin\Debug\ListBoxPrograme.pdb
+D:\Users\L3NOV\Desktop\FileProject\ListBoxPrograme\ListBoxPrograme\obj\Debug\ListBoxPrograme.csprojResolveAssemblyReference.cache
+D:\Users\L3NOV\Desktop\FileProject\ListBoxPrograme\ListBoxPrograme\obj\Debug\ListBoxPrograme.Form1.resources
+D:\Users\L3NOV\Desktop\FileProject\ListBoxPrograme\ListBoxPrograme\obj\Debug\ListBoxPrograme.Properties.Resources.resources
+D:\Users\L3NOV\Desktop\FileProject\ListBoxPrograme\ListBoxPrograme\obj\Debug\ListBoxPrograme.csproj.GenerateResource.Cache
+D:\Users\L3NOV\Desktop\FileProject\ListBoxPrograme\ListBoxPrograme\obj\Debug\ListBoxPrograme.exe
+D:\Users\L3NOV\Desktop\FileProject\ListBoxPrograme\ListBoxPrograme\obj\Debug\ListBoxPrograme.pdb
